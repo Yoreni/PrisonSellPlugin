@@ -1,0 +1,8 @@
+number:
+  rounding: "2 DP"
+  show-cents: true
+  abbreviate-from: 1000
+
+# the sound that plays when you sell items
+# set to NONE to disable
+sound-on-sell: ENTITY_EXPERIENCE_ORB_PICKUP

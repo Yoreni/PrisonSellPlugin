@@ -1,0 +1,10 @@
+1α
+  - first alpha version
+2α
+  - added View-prices sign
+2.1α
+  - fixed help menu
+2.2α
+  - made it so you can remove every item from a shop
+2.3α
+  - added validation to /sellshops add <shop> <item> <price>

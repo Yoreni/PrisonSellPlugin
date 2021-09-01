@@ -1,0 +1,10 @@
+name: Sellplugin
+version: ${project.version}
+main: com.yoreni.sellplugin.SellPlugin
+api-version: 1.16
+author: Yoreni
+depend:
+  - Vault
+commands:
+  sellshops:
+  sellall:
